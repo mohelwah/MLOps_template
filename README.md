@@ -1,3 +1,5 @@
+[![MLOPs Template](https://github.com/mohelwah/MLOps_template/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/MLOps_template/actions/workflows/main.yml)
+
 # Project Type: MLOps Template
 # Project Name : Template
 this is scaffold template for MLOps 
