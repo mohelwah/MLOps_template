@@ -1,22 +1,22 @@
-# Project Type: Project Template
+# Project Type: MLOps Template
 # Project Name : Template
-this is scaffold template for python 
+this is scaffold template for MLOps 
  Create the following:
  - Makefile
  - requirement.txt
  -Linux system:
-    - virtial enviroment: python -m venv ~/.scrape
-    - activate venv envi: source ~/.scrape/bin/activate
+    - virtial enviroment: python -m venv ~/.MLOps
+    - activate venv envi: source ~/.MLOps/bin/activate
  - Windows system:
-    - virtial enviroment: python -m venv c:\venv\scrapy
-    - activate venv envi:   C:\venv\scrapy\Scripts\activate.ps1
+    - virtial enviroment: python -m venv c:\venv\MLOps
+    - activate venv envi:   C:\venv\MLOps\Scripts\activate.ps1
  - hello.py file
  - test_hello.py file 
  - to check the python version:
     - in linux : which python  
     - in windows: Get-Command python | fl *
- - get pack list:
-    - pip freeze or pip list 
+ - get pack version:
+    - pip freeze | grep packName 
     test
 
 
