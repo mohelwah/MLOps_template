@@ -19,7 +19,11 @@ this is scaffold template for MLOps
     - in windows: Get-Command python | fl *
  - get pack version:
     - pip freeze | grep packName 
-    test
+ - chanage bash to run venv :
+    - vim ~/.bashrc
+    - shift G to button, 
+    - # Setup Virtual Env
+    - source ~/.MLOps/bin/activate
 
 
 ## run jupyter notebook
