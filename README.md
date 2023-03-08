@@ -22,7 +22,7 @@ this is scaffold template for MLOps
  - chanage bash to run venv :
     - vim ~/.bashrc
     - shift G to button, 
-    - # Setup Virtual Env
+    -# Setup Virtual Env
     - source ~/.MLOps/bin/activate
 
 
