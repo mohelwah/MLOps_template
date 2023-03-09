@@ -21,9 +21,10 @@ this is scaffold template for MLOps
     - pip freeze | grep packName 
  - chanage bash to run venv :
     - vim ~/.bashrc
-    - shift G to button, 
+    - shift G to button, esc to command mode, i to insert mode 
     -# Setup Virtual Env
-    - source ~/.MLOps/bin/activate
+    - source ~/.openai/bin/activate
+      - esc to command mode, :wq to save and quit
 
 
 ## run jupyter notebook
